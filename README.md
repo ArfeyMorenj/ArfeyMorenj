@@ -1,11 +1,23 @@
-- 👋 Hi, I’m @ArfeyMorenj
-- 👀 I’m interested in Web Deveplopment
-- 🌱 I’m currently learning PHP programming language
-- 📫 How to reach me 082142922458 this my number
-- ⚡ Fun fact: I like Coding
-- 📬 If you need to contact me or need my assist for things I've said before, you can contact me on morenoreno166@gmail.com or by Instagram @morenojja_
+# 👋 Hi, I'm Arfey Moreno
+
+💻 Passionate about **Web Development**
+🌱 Currently learning and improving my skills in **PHP & Laravel**
+🚀 Interested in building modern and responsive web applications
+⚡ Fun fact: I really enjoy coding and exploring new technologies
+
+## 🛠️ Tech Stack
+
+* PHP
+* Laravel
+* JavaScript
+* React / Next.js
+* MySQL
+
+## 📫 Contact Me
+
+* 📧 Email: [morenoreno166@gmail.com](mailto:morenoreno166@gmail.com)
+* 📸 Instagram: @morenojja_
 
 <!---
-ArfeyMorenj/ArfeyMorenj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ArfeyMorenj/ArfeyMorenj is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
